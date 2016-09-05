@@ -1,0 +1,1 @@
+Login to your Pet App by inputing user 'r', pass 'r'. Once logged you can choose between categories through a spinner: cats, dogs, all. Once chosen you go to a third activity where you can review photos, change to another pet, or say you like it. Photo pets are stored in drawable
